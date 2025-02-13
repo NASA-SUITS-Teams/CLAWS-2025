@@ -9,6 +9,17 @@
 **AI Team Lead:** Yashraj Patel  
 
 ---
+## Key Features:
+- Vitals
+- MiniMap/Navigation
+- AI-aided Geosampling
+- Messaging
+- Tasklist
+- AI Voice Assistant for navigating UI
+- Hardwired button that user can use with eye gaze to select
+- 3D multiplayer map
+
+---
 
 ## 📂 Repositories  
 🔹 **AR Repo:** [AURA](https://github.com/CLAWS-UMICH/AURA)  
