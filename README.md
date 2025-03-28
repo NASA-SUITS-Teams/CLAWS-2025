@@ -6,7 +6,7 @@
 **LMCC/Web Team Leads:** Varun Sadasivam, Saif Alesawy  
 **UX Team Lead:** Marisa Kramer  
 **Hardware Team Lead:** Huiyi Lin  
-**AI Team Lead:** Yashraj Patel 
+**AI Team Lead:** Yashraj Patel <br>
 **Content Team Lead:** Jamie Zhou
 
 ---
